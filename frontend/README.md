@@ -1,5 +1,1 @@
-## Features
-
-- User login
-- Online examinations
-- Result management
+A secure web-based system for conducting online examinations.
