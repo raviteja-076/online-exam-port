@@ -1,5 +1,5 @@
-## Modules
+## Features
 
-- Student Login
-- Exam Management
-- Results
+- User login
+- Online examinations
+- Result management
