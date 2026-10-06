@@ -1,1 +1,1 @@
-A secure web-based system for conducting online examinations.
+A modern web-based system for conducting online examinations.
